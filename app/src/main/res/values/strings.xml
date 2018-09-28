@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mushroom</string>
+    <string name="shiitake">Shiitake (oak mushroom, Chinese black mushroom, forest mushroom, golden oak): Ranging in color from tan to dark brown, and characterized by broad, umbrella-shaped caps up to ten inches in diameter, with wide open veils and tan gills. The shitake has a rich, full-bodied flavor, almost steak-like, with a meaty texture when cooked. These are best when cooked by almost any method, particularly sautéing, broiling and baking. Remove stems before cooking but reserve them for soup stocks.</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_add">Add</string>
+    <string name="title_activity_ediable">Ediable</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
